@@ -1,1 +1,1 @@
-# TecnicasdeDesenvolvimento_de_Algoritmo_e_Programacao
+# Atividades desenvolvidas na matéria de Técnicas de Programação.
